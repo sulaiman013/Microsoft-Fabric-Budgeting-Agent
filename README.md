@@ -2,7 +2,7 @@
 
 A conversational AI assistant built on Microsoft Fabric Data Agent that enables managers to create annual budgets through natural language interactions. The Budget Bot analyzes historical expenses, generates budget projections using various forecasting methods, and exports approved budgets to SharePoint.
 
-![Demo](assets/demo.gif)
+![Demo](assets/BudgetBot.gif)
 
 ---
 
